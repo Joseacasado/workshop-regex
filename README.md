@@ -1,5 +1,15 @@
-# Expresiones-regulares
+# Expresiones regulares con JS workshop
 
-Contenidos:
-- PDF con slides de la Micro Learning
-- Documento de HTML con diverss formularios dotados de validación mediante RegEx
+Materiales workshop Expresiones Regulares con JS @ Ironhack Madrid (recurrente)
+
+## Instalación
+
+No requiere instalación.
+
+## Ejecución
+
+Ejecutar los archivos en el navegador.
+
+## Contenidos
+- PDF explicativo.
+- Documento HTML con diversas validaciones de formularios.
